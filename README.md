@@ -33,21 +33,54 @@
 > Tools, languages, and other things that I like to work with.
 
 <table>
-<tr>
-<td align="center" width="96"><img src="./img/python-original.png" width="48" /><br>Python</td>
-<td align="center" width="96"><img src="./img/c-original.png" width="48" /><br>C</td>
-<td align="center" width="96"><img src="./img/cpp-original.png" width="48" /><br>C++</td>
-<td align="center" width="96"><img src="./img/java-original.png" width="48" /><br>Java</td>
-<td align="center" width="96"><img src="./img/scikit-learn.png" width="48" /><br>Scikit‑Learn</td>
-<td align="center" width="96"><img src="./img/tensorflow.png" width="48" /><br>TensorFlow</td>
-<td align="center" width="96"><img src="./img/pandas.png" width="48" /><br>Pandas</td>
-<td align="center" width="96"><img src="./img/numpy.png" width="48" /><br>NumPy</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="./img/matplotlib.png" width="48" /><br>Matplotlib</td>
-<td align="center" width="96"><img src="./img/seaborn.png" width="48" /><br>Seaborn</td>
-<td align="center" width="96"><img src="./img/powerbi.png" width="48" /><br>Power BI</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://pandas.pydata.org/static/img/pandas.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://numpy.org/images/logo.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+  </tr>
 </table>
 
 ---
