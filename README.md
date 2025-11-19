@@ -19,13 +19,13 @@
 
 ---
 
-## 🚀 About Me  
-- 🔥 مهتم بمجال **الذكاء الاصطناعي وتعلم الآلة وعلوم البيانات**  
-- 🧠 شغال على مشاريع كتير في ML, AI, Data Science  
-- 🎯 هدفي: **100 مشروع قبل 2026**  
-- 💼 ببرمج بـ: **C, C++, Java, Python**  
-- 🤖 خبرة في: scikit‑learn, TensorFlow, Pandas, NumPy  
-- 📊 أحب أشتغل على: Matplotlib, Seaborn, Power BI  
+## 🚀 About me
+- 🔥 Interested in the field of **Artificial Intelligence, Knowledge Learning and Data Science**
+- 🧠 Works on many projects in ML, AI, Data Science
+- 🎯 My goal: **100 projects before 2026**
+- 💼 I program with: **C, C++, Java, Python**
+- 🤖 Experience in: scikit‑learn, TensorFlow, Pandas, NumPy
+- 📊 I like to work on: Matplotlib, Seaborn, Power BI
 
 ---
 
