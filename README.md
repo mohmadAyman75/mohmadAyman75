@@ -69,9 +69,9 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+  <br>Matplotlib
+</td>
     <td align="center" width="96">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
       <br>Seaborn
