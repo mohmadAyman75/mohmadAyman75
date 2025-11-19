@@ -68,8 +68,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="48" height="48" alt="Matplotlib" />
   <br>Matplotlib
 </td>
     <td align="center" width="96">
