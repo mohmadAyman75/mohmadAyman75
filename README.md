@@ -84,6 +84,14 @@
 </table>
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohmadAyman75&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadAyman75&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 📈 Coding Activity  
 > مجموع ساعات العمل على المشاريع الخاصة والـ ML
