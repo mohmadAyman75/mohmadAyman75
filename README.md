@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm **Mohmad Ayman**
 
-### 🎓 AI/ML & Data Science Student — 3rd Year, Faculty of Commerce & Business Administration (MIS)
+### 🎓 AI/ML & Data Science Student — 3rd Year, Faculty of Computer and Information
 
 <p align="left">
   <a href="https://github.com/mohmadAyman75">
